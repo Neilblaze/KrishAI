@@ -1,0 +1,2 @@
+# KrishAI
+Agro project
