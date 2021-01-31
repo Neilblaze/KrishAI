@@ -1,2 +1,1 @@
-# KrishAI
-Agro project
+# Tripnext :zap:
