@@ -1,1 +1,1 @@
-# Tripnext :zap:
+# Auto-extract Mobilebertnet ⚡
